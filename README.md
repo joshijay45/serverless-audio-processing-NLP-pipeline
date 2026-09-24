@@ -1,4 +1,4 @@
-# Serverless Machine Learning Pipeline
+# Serverless Audio processing NLP Pipeline
 
 # What is this project?
 
@@ -36,7 +36,7 @@ AI & Machine Learning: Amazon Transcribe, Amazon Translate, Amazon Comprehend
 # How to Test the Pipeline
 
 Clone this repository:
-git clone https://github.com/joshijay45/serverless-ml-pipeline.git
+git clone https://github.com/joshijay45/serverless-audio-processing-NLP-pipeline.git
 
 Run terraform apply to build the infrastructure in your AWS account.
 
